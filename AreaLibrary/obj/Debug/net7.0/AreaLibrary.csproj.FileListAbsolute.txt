@@ -1,0 +1,12 @@
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\bin\Debug\net7.0\AreaLibrary.deps.json
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\bin\Debug\net7.0\AreaLibrary.dll
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\bin\Debug\net7.0\AreaLibrary.pdb
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.csproj.AssemblyReference.cache
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.AssemblyInfoInputs.cache
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.AssemblyInfo.cs
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.dll
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\refint\AreaLibrary.dll
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\AreaLibrary.pdb
+C:\Users\Левон\source\repos\AreaLibrary\AreaLibrary\obj\Debug\net7.0\ref\AreaLibrary.dll
