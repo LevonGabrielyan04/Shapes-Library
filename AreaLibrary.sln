@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaLibrary", "AreaLibrary\AreaLibrary.csproj", "{258E136A-B3E8-4102-9653-4608D0D8346E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaLibrary.UnitTests2", "AreaLibrary.UnitTests2\AreaLibrary.UnitTests2.csproj", "{375A7698-153E-4B61-82E6-EDA8038CBB44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaLibrary.UnitTests2", "AreaLibrary.UnitTests2\AreaLibrary.UnitTests2.csproj", "{375A7698-153E-4B61-82E6-EDA8038CBB44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

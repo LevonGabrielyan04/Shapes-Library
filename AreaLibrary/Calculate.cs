@@ -30,9 +30,8 @@ namespace AreaLibrary
                 Type type = Type.GetType("AreaLibrary.Figures." + figureName);
                 if (type == null)
                     throw new Exception("Invalid figure name");
-                object figure = Activator.CreateInstance(type);
-                area = Convert.ToDouble(type.GetMethod("GetArea",new Type[] {typeof(object[])})
-                .Invoke(figure, new[] { _params }));
+                IFigure figure = (IFigure)Activator.CreateInstance(type);
+                area = figure.GetArea(new[] {_params});
             }
             return area;
         }
